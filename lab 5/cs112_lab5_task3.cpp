@@ -123,6 +123,7 @@ class stringType{
         else
         return -1;
     }
+    ~stringType();
 
 };
 
